@@ -11,13 +11,14 @@ header{
 
 main{
   width: 960px;
-  margin: 50px auto;
+  margin: 25px auto;
   display: flex;
 }
 
 .step-box{
   width: 300px;
   padding: 10px;
+  margin: 25px 15px;
   position: relative;
   background-color: #eee;
 }
